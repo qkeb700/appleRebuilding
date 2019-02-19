@@ -1,0 +1,24 @@
+.ui.borderless.topmenu.menu {
+  background-color: #2d2d2d;
+  box-shadow: none;
+  border: none;
+}
+
+div.i {
+  font-size:2.8rem;
+}
+
+#bg {
+  position: relative;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.footer-background {
+  background-color: #f2f2f2;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
